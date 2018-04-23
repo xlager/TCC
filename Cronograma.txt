@@ -1,0 +1,25 @@
+Resumo do Plano de Trabalho
+Desenvolver um simulador que testa a vizualização de algoritmos de Rotas desenvolvidos para VANTS(DRONES) de maneira simples.
+
+1º Trimestre
+-Pesquisas
+	- Pesquisar sobre a área de atuação, como, trabalhos correlatos, liguagens utilizadas, algoritmos e etc.
+	- Pesquisar sobre a melhor ferramenta para a criação do simulador na área de Computação Gráfica
+-Proposta de Solução
+	- Buscar entender e simplificar a ferramenta para mais fácil acessibilidade e entendimento de simulações com drones
+- Início da Monografia
+
+2º Trimestre
+-Organização e levantamento de requisitos para a implementação (engenharia do software)
+-Monografia Parcial
+
+3º Trimestre
+-Implementação
+	- Utilizar todos os conhecimentos adquiridos nos últimos dois trimestres para implementar todo o projeto
+-Monografia
+	- Revisar e atualizar a monografia
+4º Trimestre
+-Testes da ferramenta
+-Refinamento da implementação
+	- Terminar ajustes que podem surgir antes e pós testes
+-Fim da monografia

@@ -1,0 +1,5 @@
+Etapas de drones + mission planner
+http://blog.droneng.com.br/conheca-mission-planner/
+
+Site Mission Planner
+http://ardupilot.org/planner/docs/mission-planner-overview.html
